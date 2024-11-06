@@ -7,3 +7,6 @@ Pasos para crear
 r repo:
  . git init
  - git status
+ - git commit -m
+ - git add-
+ - git init
