@@ -1,1 +1,7 @@
 hola mundo
+Shinichi Kudo es un detective de preparatoria genio fan de Sherlock Holmes
+
+Práctica de Git
+
+Pasos para crear repo:
+ . git init
