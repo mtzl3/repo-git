@@ -3,3 +3,6 @@ Cdxm
 Tokyo
 Osaka
 Madrid
+Azul
+Guadalajara
+Tonala

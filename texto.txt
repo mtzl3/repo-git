@@ -3,5 +3,7 @@ Shinichi Kudo es un detective de preparatoria genio fan de Sherlock Holmes
 
 Práctica de Git
 
-Pasos para crear repo:
+Pasos para crear
+r repo:
  . git init
+ - git status
